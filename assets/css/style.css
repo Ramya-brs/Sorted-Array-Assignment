@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    margin: 100px;
+    background-size: cover;
+}
+h1 {
+    color:purple;
+    font-size: 40px;
+}
+label {
+    color:purple;
+    font-size: 20px;
+    
+}
+.container {
+    width: 50%;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+    border: 10px solid palevioletred;
+    background: url("../img/bg1.jpg");
+    background-size: cover;
+    color:#ccc;
+    font-weight: 1500;
+    font-size: 15px;
+}
+button {
+    width: 15%;
+    color:darkred;
+    background-color:hotpink;
+    font-size: 20px;
+}
+
+
